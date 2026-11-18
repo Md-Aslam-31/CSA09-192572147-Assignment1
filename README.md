@@ -1,22 +1,19 @@
-# Campus Smart Parking System - Assignment 1
+# Java - CSA09 Course Assignments
 
 **Student:** Mohamed Aslam H  
 **Registration number:** 192572147  
-**Course outcome:** CO1 - Java fundamentals and object-oriented programming
+**Course code:** CSA09
 
-## Contents
+This repository contains my Java course assignments. Each assignment is kept in its own folder so later work can be added without mixing files.
 
-- `CampusParkingAssignment.pdf` - written submission for Tasks 1-12.
-- `REPORT.md` - editable report, including analysis, pseudocode, complexity comparisons, UML sketch and validation plan.
-- `src/CampusParking.java` - Java implementation with console checks.
+| Folder | Contents |
+| --- | --- |
+| `Assignment1/` | Campus Smart Parking System design report, PDF, and Java source |
+| `Assignment2/` | Add assignment 2 files here |
+| `Assignment3/` | Add assignment 3 files here |
+| `Assignment4/` | Add assignment 4 files here |
+| `Assignment5/` | Add assignment 5 files here |
 
-## Compile and run
+## Assignment 1
 
-Requires JDK 8 or newer. From the `src` directory:
-
-```text
-javac CampusParking.java
-java CampusParking
-```
-
-The program prints `PASS`/`FAIL` results. Capture your run output and add it as evidence before final submission. This copy has not yet been compiled in the current environment because only a Java runtime is available.
+See [`Assignment1/README.md`](Assignment1/README.md) for the summary and run instructions. Requires JDK 8 or later.
